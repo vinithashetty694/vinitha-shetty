@@ -1,2 +1,2 @@
-# vinitha-shetty
-Hello world, this is my profile
+Hi, i'm vinitha shetty
+Data science|ML Enthusias|Open Source Contributor
